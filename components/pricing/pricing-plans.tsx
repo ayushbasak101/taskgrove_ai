@@ -24,7 +24,7 @@ const plans = [
   {
     name: "Pro",
     description: "For individuals and freelancers",
-    price: { monthly: "₹499", yearly: "₹4,999" },
+    price: { monthly: "₹1,299", yearly: "₹₹12,470" },
     features: [
       "Full access to all AI tools",
       "Advanced code generation",
@@ -39,7 +39,7 @@ const plans = [
   {
     name: "Team",
     description: "For teams and small businesses",
-    price: { monthly: "₹1,499", yearly: "₹14,999" },
+    price: { monthly: "₹1,699", yearly: "₹15,999" },
     features: [
       "Everything in Pro",
       "Team collaboration features",
